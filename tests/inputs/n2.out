@@ -1,0 +1,1046 @@
+
+Running Job 1 of 1 input
+qchem input_4744.0 /aimm/scratch/qchem4744/ 0
+/home/epif/aimm/qcprog.exe_s input_4744.0 /aimm/scratch/qchem4744/
+8388608
+                  Welcome to Q-Chem
+     A Quantum Leap Into The Future Of Chemistry
+
+
+ Q-Chem 6.0, Q-Chem, Inc., Pleasanton, CA (2022)
+
+ E. Epifanovsky,  A. T. B. Gilbert,  Xintian Feng,  Joonho Lee,  Yuezhi Mao,  
+ N. Mardirossian,  P. Pokhilko,  A. White,  M. Wormit,  M. P. Coons,  
+ A. L. Dempwolff,  Zhengting Gan,  D. Hait,  P. R. Horn,  L. D. Jacobson,  
+ I. Kaliman,  J. Kussmann,  A. W. Lange,  Ka Un Lao,  D. S. Levine,  Jie Liu,  
+ S. C. McKenzie,  A. F. Morrison,  K. Nanda,  F. Plasser,  D. R. Rehn,  
+ M. L. Vidal,  Zhi-Qiang You,  Ying Zhu,  B. Alam,  B. Albrecht,  
+ A. Aldossary,  E. Alguire,  J. H. Andersen,  V. Athavale,  D. Barton,  
+ K. Begam,  A. Behn,  N. Bellonzi,  Y. A. Bernard,  E. J. Berquist,  
+ H. Burton,  A. Carreras,  K. Carter-Fenk,  Romit Chakraborty,  
+ Chandrima Chakravarty,  Junhan Chen,  A. D. Chien,  K. D. Closser,  
+ V. Cofer-Shabica,  L. Cunha,  S. Dasgupta,  Jia Deng,  M. de Wergifosse,  
+ M. Diedenhofen,  Hainam Do,  S. Ehlert,  Po-Tung Fang,  S. Fatehi,  
+ Qingguo Feng,  T. Friedhoff,  B. Ganoe,  J. Gayvert,  Qinghui Ge,  
+ G. Gidofalvi,  M. Goldey,  J. Gomes,  C. Gonzalez-Espinoza,  S. Gulania,  
+ A. Gunina,  J. A. Gyamfi,  M. W. D. Hanson-Heine,  P. H. P. Harbach,  
+ A. W. Hauser,  M. F. Herbst,  M. Hernandez Vera,  M. Hodecker,  
+ Z. C. Holden,  S. Houck,  Xunkun Huang,  Kerwin Hui,  B. C. Huynh,  
+ K. Ikeda,  M. Ivanov,  Hyunjun Ji,  Zuxin Jin,  Hanjie Jiang,  B. Kaduk,  
+ S. Kaehler,  R. Kang,  K. Khistyaev,  Jaehoon Kim,  Yongbin Kim,  
+ P. Klunzinger,  Z. Koczor-Benda,  Joong Hoon Koh,  D. Kosenkov,  
+ Saikiran Kotaru,  L. Koulias,  T. Kowalczyk,  C. M. Krauter,  K. Kue,  
+ A. Kunitsa,  T. Kus,  A. Landau,  K. V. Lawler,  D. Lefrancois,  S. Lehtola,  
+ Rain Li,  Shaozhi Li,  Yi-Pei Li,  Jiashu Liang,  M. Liebenthal,  
+ Hung-Hsuan Lin,  You-Sheng Lin,  Fenglai Liu,  Kuan-Yu Liu,  
+ M. Loipersberger,  A. Luenser,  C. Malbon,  A. Manjanath,  P. Manohar,  
+ E. Mansoor,  S. F. Manzer,  Shan-Ping Mao,  A. V. Marenich,  T. Markovich,  
+ S. Mason,  F. Matz,  S. A. Maurer,  P. F. McLaughlin,  M. F. S. J. Menger,  
+ J.-M. Mewes,  S. A. Mewes,  P. Morgante,  Mohammad Mostafanejad,  
+ J. W. Mullinax,  K. J. Oosterbaan,  G. Paran,  V. Parravicini,  
+ Alexander C. Paul,  Suranjan K. Paul,  F. Pavosevic,  Zheng Pei,  S. Prager,  
+ E. I. Proynov,  E. Ramos,  B. Rana,  A. E. Rask,  A. Rettig,  R. M. Richard,  
+ F. Rob,  E. Rossomme,  T. Scheele,  M. Scheurer,  M. Schneider,  
+ P. E. Schneider,  N. Sergueev,  S. M. Sharada,  Hengyuan Shen,  
+ W. Skomorowski,  D. W. Small,  C. J. Stein,  Yingli Su,  Yu-Chuan Su,  
+ E. J. Sundstrom,  Zhen Tao,  J. Thirman,  Hung-Yi Tsai,  T. Tsuchimochi,  
+ N. M. Tubman,  C. Utku,  S. P. Veccham,  O. Vydrov,  J. Wenzel,  
+ Jonathan Wong,  J. Witte,  A. Yamada,  Chou-Hsun Yang,  Kun Yao,  
+ S. Yeganeh,  S. R. Yost,  A. Zech,  F. Zeller,  Igor Ying Zhang,  
+ Xing Zhang,  Yu Zhang,  D. Zuev,  A. Aspuru-Guzik,  A. T. Bell,  
+ N. A. Besley,  K. B. Bravaya,  B. R. Brooks,  D. Casanova,  Jeng-Da Chai,  
+ Hsing-Ta Chen,  S. Coriani,  C. J. Cramer,  A. E. DePrince, III,  
+ R. A. DiStasio Jr.,  A. Dreuw,  B. D. Dunietz,  T. R. Furlani,  
+ W. A. Goddard III,  S. Grimme,  S. Hammes-Schiffer,  T. Head-Gordon,  
+ W. J. Hehre,  Chao-Ping Hsu,  T.-C. Jagau,  Yousung Jung,  A. Klamt,  
+ Jing Kong,  D. S. Lambrecht,  Xiangyuan Li,  WanZhen Liang,  N. J. Mayhall,  
+ C. W. McCurdy,  J. B. Neaton,  T. Neudecker,  C. Ochsenfeld,  
+ J. A. Parkhill,  R. Peverati,  V. A. Rassolov,  Haisheng Ren,  Yihan Shao,  
+ L. V. Slipchenko,  R. P. Steele,  J. E. Subotnik,  A. J. W. Thom,  
+ A. Tkatchenko,  D. G. Truhlar,  T. Van Voorhis,  Fan Wang,  
+ T. A. Wesolowski,  K. B. Whaley,  H. L. Woodcock III,  P. M. Zimmerman,  
+ S. Faraji,  P. M. W. Gill,  M. Head-Gordon,  J. M. Herbert,  A. I. Krylov
+
+ Contributors to earlier versions of Q-Chem not listed above: 
+ R. D. Adamson,  B. Austin,  R. Baer,  J. Baker,  G. J. O. Beran,  
+ K. Brandhorst,  S. T. Brown,  E. F. C. Byrd,  Arup K. Chakraborty,  
+ G. K. L. Chan,  Chun-Min Chang,  Yunqing Chen,  C.-L. Cheng,  
+ Siu Hung Chien,  D. M. Chipman,  D. L. Crittenden,  H. Dachsel,  
+ R. J. Doerksen,  A. D. Dutoi,  R. G. Edgar,  J. Fosso-Tande,  
+ L. Fusti-Molnar,  D. Ghosh,  A. Ghysels,  A. Golubeva-Zadorozhnaya,  
+ J. Gonthier,  M. S. Gordon,  S. R. Gwaltney,  G. Hawkins,  J. E. Herr,  
+ A. Heyden,  S. Hirata,  E. G. Hohenstein,  G. Kedziora,  F. J. Keil,  
+ C. Kelley,  Jihan Kim,  R. A. King,  R. Z. Khaliullin,  P. P. Korambath,  
+ W. Kurlancheek,  A. Laurent,  A. M. Lee,  M. S. Lee,  S. V. Levchenko,  
+ Ching Yeh Lin,  D. Liotard,  E. Livshits,  R. C. Lochan,  I. Lotan,  
+ L. A. Martinez-Martinez,  P. E. Maslen,  N. Nair,  D. P. O'Neill,  
+ D. Neuhauser,  E. Neuscamman,  C. M. Oana,  R. Olivares-Amaya,  R. Olson,  
+ T. M. Perrine,  B. Peters,  P. A. Pieniazek,  A. Prociuk,  Y. M. Rhee,  
+ J. Ritchie,  M. A. Rohrdanz,  E. Rosta,  N. J. Russ,  H. F. Schaefer III,  
+ M. W. Schmidt,  N. E. Schultz,  S. Sharma,  N. Shenvi,  C. D. Sherrill,  
+ A. C. Simmonett,  A. Sodt,  T. Stein,  D. Stuck,  K. S. Thanthiriwatte,  
+ V. Vanovschi,  L. Vogt,  Tao Wang,  A. Warshel,  M. A. Watson,  
+ C. F. Williams,  Q. Wu,  X. Xu,  Jun Yang,  W. Zhang,  Yan Zhao
+
+   Please cite Q-Chem as follows:
+  "Software for the frontiers of quantum chemistry:
+   An overview of developments in the Q-Chem 5 package"
+   J. Chem. Phys. 155, 084801 (2021)
+   https://doi.org/10.1063/5.0055522 (open access)
+
+ Q-Chem 6.0.0 for Intel X86 EM64T Linux
+
+ Parts of Q-Chem use Armadillo 9.900.5 (Nocturnal Misbehaviour).
+ http://arma.sourceforge.net/
+
+ Q-Chem begins on Thu Oct 20 14:25:41 2022  
+
+ Host: iqmol
+0
+
+     Scratch files written to /aimm/scratch/qchem4744//
+ Jul222 |scratch|qcdevops|jenkins|workspace|build_RNUM 6466   
+ Processing $rem in /opt/qchem/qc600/config/preferences:
+ Processing $rem in /home/epif/.qchemrc:
+
+ Checking the input file for inconsistencies... 	...done.
+
+--------------------------------------------------------------
+User input:
+--------------------------------------------------------------
+$molecule
+0 1
+N   -2.6862519   -0.7568763   -0.8268284
+N   -1.7287160   -0.1859260   -0.7193140
+$end
+
+$rem
+BASIS  =  6-31G
+GUI  =  2
+JOB_TYPE  =  Optimization
+METHOD  =  HF
+SCF_CONVERGENCE  =  8
+$end
+
+
+--------------------------------------------------------------
+ ----------------------------------------------------------------
+             Standard Nuclear Orientation (Angstroms)
+    I     Atom           X                Y                Z
+ ----------------------------------------------------------------
+    1      N      -0.0000000000     0.0000000000    -0.5600041498
+    2      N      -0.0000000000    -0.0000000000     0.5600041498
+ ----------------------------------------------------------------
+ Molecular Point Group                 D*h   NOp =***
+ Largest Abelian Subgroup              D2h   NOp =  1
+ Nuclear Repulsion Energy =          23.15133141 hartrees
+ There are        7 alpha and        7 beta electrons
+ Requested basis set is 6-31G
+ There are 6 shells and 18 basis functions
+
+ Total QAlloc Memory Limit   8000 MB
+ Mega-Array Size       188 MB
+ MEM_STATIC part       192 MB
+
+ -----------------------------------------------------------------------
+                STARTING GEOMETRY OPTIMIZER USING LIBOPT3
+                by Peter F. McLaughlin, Yu Zhang, Evgeny Epifanovsky
+ -----------------------------------------------------------------------
+
+              Initial Energy and Gradient Calculation
+  Checking Topology for Ill-Behaving Coordinates
+  Done Checking Topology
+ ----------------------------------------------------------------
+             Standard Nuclear Orientation (Angstroms)
+    I     Atom           X                Y                Z
+ ----------------------------------------------------------------
+    1      N       0.0000000000     0.0000000000    -0.5600041498
+    2      N      -0.0000000000    -0.0000000000     0.5600041498
+ ----------------------------------------------------------------
+ Molecular Point Group                 D*h   NOp =***
+ Largest Abelian Subgroup              D2h   NOp =  1
+ Nuclear Repulsion Energy =          23.15133141 hartrees
+ There are        7 alpha and        7 beta electrons
+
+                       Distance Matrix (Angstroms)
+             N (  1)
+   N (  2)  1.120008
+ 
+ Requested basis set is 6-31G
+ There are 6 shells and 18 basis functions
+ A cutoff of  1.0D-12 yielded     21 shell pairs
+ There are       195 function pairs
+ Smallest overlap matrix eigenvalue = 8.40E-03
+
+ Scale SEOQF with 1.000000e+00/1.000000e+00/1.000000e+00
+
+ Standard Electronic Orientation quadrupole field applied
+ Nucleus-field energy     =    -0.0000000047 hartrees
+ Guess from superposition of atomic densities
+ Warning:  Energy on first SCF cycle will be non-variational
+ SAD guess density has 14.000000 electrons
+
+ -----------------------------------------------------------------------
+  General SCF calculation program by
+  Eric Jon Sundstrom, Paul Horn, Yuezhi Mao, Dmitri Zuev, Alec White,
+  David Stuck, Shaama M.S., Shane Yost, Joonho Lee, David Small,
+  Daniel Levine, Susi Lehtola, Hugh Burton, Evgeny Epifanovsky,
+  Bang C. Huynh
+ -----------------------------------------------------------------------
+ Hartree-Fock
+ A restricted SCF calculation will be
+ performed using DIIS
+ SCF converges when DIIS error is below 1.0e-08
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+    1    -108.9753651250      2.45e-01  
+    2    -108.8517172940      1.71e-02  
+    3    -108.8642883688      3.81e-03  
+    4    -108.8649743798      8.70e-04  
+    5    -108.8650237588      7.10e-05  
+    6    -108.8650240974      9.79e-06  
+    7    -108.8650241028      6.69e-07  
+    8    -108.8650241028      5.11e-08  
+    9    -108.8650241028      5.52e-09  Convergence criterion met
+ ---------------------------------------
+ SCF time:   CPU 0.13s  wall 0.00s 
+ SCF   energy in the final basis set =     -108.8650241028
+ Total energy in the final basis set =     -108.8650241028
+ 
+ --------------------------------------------------------------
+ 
+                    Orbital Energies (a.u.)
+ --------------------------------------------------------------
+ 
+ Alpha MOs
+ -- Occupied --
+-15.7241 -15.7211  -1.5099  -0.7825  -0.6274  -0.6130  -0.6130
+ -- Virtual --
+  0.1393   0.1393   0.5789   0.7968   0.8527   0.8527   0.9424   1.0041
+  1.0041   1.1225   1.5370
+ --------------------------------------------------------------
+ 
+          Ground-State Mulliken Net Atomic Charges
+
+     Atom                 Charge (a.u.)
+  ----------------------------------------
+      1 N                     0.000000
+      2 N                    -0.000000
+  ----------------------------------------
+  Sum of atomic charges =     0.000000
+
+ -----------------------------------------------------------------
+                    Cartesian Multipole Moments
+ -----------------------------------------------------------------
+    Charge (ESU x 10^10)
+                 0.0000
+    Dipole Moment (Debye)
+         X      -0.0000      Y       0.0000      Z      -0.0000
+       Tot       0.0000
+    Quadrupole Moments (Debye-Ang)
+        XX     -10.3808     XY       0.0000     YY     -10.3808
+        XZ      -0.0000     YZ      -0.0000     ZZ     -12.6080
+    Octopole Moments (Debye-Ang^2)
+       XXX      -0.0000    XXY       0.0000    XYY      -0.0000
+       YYY       0.0000    XXZ      -0.0000    XYZ       0.0000
+       YYZ      -0.0000    XZZ      -0.0000    YZZ       0.0000
+       ZZZ      -0.0000
+    Hexadecapole Moments (Debye-Ang^3)
+      XXXX      -8.5999   XXXY       0.0000   XXYY      -2.8666
+      XYYY       0.0000   YYYY      -8.5999   XXXZ       0.0000
+      XXYZ       0.0000   XYYZ       0.0000   YYYZ       0.0000
+      XXZZ      -6.4203   XYZZ       0.0000   YYZZ      -6.4203
+      XZZZ       0.0000   YZZZ      -0.0000   ZZZZ     -32.0420
+ -----------------------------------------------------------------
+ Calculating analytic gradient of the SCF energy
+ Gradient of SCF Energy
+            1           2
+    1  -0.0000000   0.0000000
+    2  -0.0000000   0.0000000
+    3  -0.0986201   0.0986201
+ Max gradient component =       9.862E-02
+ RMS gradient           =       5.694E-02
+ Gradient time:  CPU 0.03 s  wall 0.03 s
+
+ *****************************************************
+             Starting BFGS Algorithm
+ *****************************************************
+            LIBOPT3 RUN PARAMETERS
+
+  Geometry Optimization Coordinates :
+	Delocalized Natural Internal Coordinates
+
+  Step Length Selection Method :
+	Eigenvector Following Algorithm
+
+  Convergence Criteria :
+	Max Gradient Component    	3.00000000e-04
+	Max Displacement Component	1.20000000e-03
+	Absolute Energy Difference	1.00000000e-06
+
+  Initial Hessian :
+	Approximate Hessian - Simple Internal Coordinate Scaled
+
+  Type of Verification :
+	Verify with final updated Hessian
+ *****************************************************
+
+	OPTIMIZATION CYCLE:	1
+
+ Scaling Magnitude of Eigenvalues
+ 	Minimum: -25.00000000	 Maximum: 25.00000000
+ 1 Hessian Eigenvalues to form next step
+   0.50000000
+
+
+ Minimum Search taking a RFO step
+ Searching for Lambda that minimizes along all modes
+	Value of Lambda  -0.01874880
+	Norm of Stepsize  0.19011140
+	RMS of Stepsize  0.19011140
+
+	Performing Iterative Coordinate Back-Transformation
+
+	  Starting from Previous Position
+
+	  iter:	0	rms: 5.4880434871e-02	maxdev: 9.5055701537e-02
+	  iter:	1	rms: 0.0000000000e+00	maxdev: 0.0000000000e+00	 Success!
+
+	Finished Iterative Coordinate Back-Transformation
+ ----------------------------------------------------------------
+             Standard Nuclear Orientation (Angstroms)
+    I     Atom           X                Y                Z
+ ----------------------------------------------------------------
+    1      N      -0.0000000000     0.0000000000    -0.5097028388
+    2      N      -0.0000000000    -0.0000000000     0.5097028388
+ ----------------------------------------------------------------
+ Molecular Point Group                 D*h   NOp =***
+ Largest Abelian Subgroup              D2h   NOp =  1
+ Nuclear Repulsion Energy =          25.43607898 hartrees
+ There are        7 alpha and        7 beta electrons
+
+                       Distance Matrix (Angstroms)
+             N (  1)
+   N (  2)  1.019406
+ 
+ Applying Cartesian multipole field
+    Component          Value
+    ---------          -----
+     (2,0,0)        1.00000E-10
+     (0,2,0)        2.00000E-10
+     (0,0,2)       -3.00000E-10
+ Nucleus-field energy     =-3.8965578595e-09 hartrees
+ Requested basis set is 6-31G
+ There are 6 shells and 18 basis functions
+ A cutoff of  1.0D-12 yielded     21 shell pairs
+ There are       195 function pairs
+ Smallest overlap matrix eigenvalue = 5.11E-03
+ Guess MOs from SCF MO coefficient file
+
+ -----------------------------------------------------------------------
+  General SCF calculation program by
+  Eric Jon Sundstrom, Paul Horn, Yuezhi Mao, Dmitri Zuev, Alec White,
+  David Stuck, Shaama M.S., Shane Yost, Joonho Lee, David Small,
+  Daniel Levine, Susi Lehtola, Hugh Burton, Evgeny Epifanovsky,
+  Bang C. Huynh
+ -----------------------------------------------------------------------
+ Hartree-Fock
+ A restricted SCF calculation will be
+ performed using DIIS
+ SCF converges when DIIS error is below 1.0e-08
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+    1    -108.8383588044      1.47e-02  
+    2    -108.8482952281      3.38e-03  
+    3    -108.8488186793      7.69e-04  
+    4    -108.8488556767      5.74e-05  
+    5    -108.8488559148      8.35e-06  
+    6    -108.8488559199      6.65e-07  
+    7    -108.8488559199      2.17e-08  
+    8    -108.8488559199      2.35e-09  Convergence criterion met
+ ---------------------------------------
+ SCF time:   CPU 0.07s  wall 0.00s 
+ SCF   energy in the final basis set =     -108.8488559199
+ Total energy in the final basis set =     -108.8488559199
+ 
+ --------------------------------------------------------------
+ 
+                    Orbital Energies (a.u.)
+ --------------------------------------------------------------
+ 
+ Alpha MOs
+ -- Occupied --
+-15.6967 -15.6911  -1.5875  -0.7477  -0.6580  -0.6580  -0.6359
+ -- Virtual --
+  0.1950   0.1950   0.6165   0.7543   0.8258   0.8258   0.9538   1.0364
+  1.0364   1.2578   1.7481
+ --------------------------------------------------------------
+ 
+          Ground-State Mulliken Net Atomic Charges
+
+     Atom                 Charge (a.u.)
+  ----------------------------------------
+      1 N                     0.000000
+      2 N                    -0.000000
+  ----------------------------------------
+  Sum of atomic charges =     0.000000
+
+ -----------------------------------------------------------------
+                    Cartesian Multipole Moments
+ -----------------------------------------------------------------
+    Charge (ESU x 10^10)
+                 0.0000
+    Dipole Moment (Debye)
+         X       0.0000      Y       0.0000      Z      -0.0000
+       Tot       0.0000
+    Quadrupole Moments (Debye-Ang)
+        XX      -9.9860     XY       0.0000     YY      -9.9860
+        XZ       0.0000     YZ       0.0000     ZZ     -12.3731
+    Octopole Moments (Debye-Ang^2)
+       XXX       0.0000    XXY       0.0000    XYY       0.0000
+       YYY       0.0000    XXZ      -0.0000    XYZ      -0.0000
+       YYZ      -0.0000    XZZ       0.0000    YZZ       0.0000
+       ZZZ      -0.0000
+    Hexadecapole Moments (Debye-Ang^3)
+      XXXX      -7.9708   XXXY       0.0000   XXYY      -2.6569
+      XYYY       0.0000   YYYY      -7.9708   XXXZ       0.0000
+      XXYZ       0.0000   XYYZ       0.0000   YYYZ       0.0000
+      XXZZ      -5.6685   XYZZ       0.0000   YYZZ      -5.6685
+      XZZZ       0.0000   YZZZ       0.0000   ZZZZ     -27.8897
+ -----------------------------------------------------------------
+ Calculating analytic gradient of the SCF energy
+ Gradient of SCF Energy
+            1           2
+    1   0.0000000  -0.0000000
+    2  -0.0000000   0.0000000
+    3   0.3146258  -0.3146258
+ Max gradient component =       3.146E-01
+ RMS gradient           =       1.816E-01
+ Gradient time:  CPU 0.01 s  wall 0.01 s
+
+     Step 1	:
+        Energy is -108.8488559199
+                            Maximum         Tolerance       Converged?
+         Gradient           3.14625761e-01	3.00000000e-04	false
+         Displacement       1.90111403e-01	1.20000000e-03	false
+         Energy change      1.61681829e-02	1.00000000e-06	false
+
+
+	OPTIMIZATION CYCLE:	2
+
+ Scaling Magnitude of Eigenvalues
+ 	Minimum: -25.00000000	 Maximum: 25.00000000
+ 1 Hessian Eigenvalues to form next step
+   2.17370350
+
+
+ Minimum Search taking a RFO step
+ Searching for Lambda that minimizes along all modes
+	Value of Lambda  -0.04462344
+	Norm of Stepsize  0.14183020
+	RMS of Stepsize  0.14183020
+
+	Performing Iterative Coordinate Back-Transformation
+
+	  Starting from Previous Position
+
+	  iter:	0	rms: 4.0942853052e-02	maxdev: 7.0915101693e-02
+	  iter:	1	rms: 0.0000000000e+00	maxdev: 0.0000000000e+00	 Success!
+
+	Finished Iterative Coordinate Back-Transformation
+ ----------------------------------------------------------------
+             Standard Nuclear Orientation (Angstroms)
+    I     Atom           X                Y                Z
+ ----------------------------------------------------------------
+    1      N      -0.0000000000     0.0000000000    -0.5472294945
+    2      N      -0.0000000000    -0.0000000000     0.5472294945
+ ----------------------------------------------------------------
+ Molecular Point Group                 D*h   NOp =***
+ Largest Abelian Subgroup              D2h   NOp =  1
+ Nuclear Repulsion Energy =          23.69178159 hartrees
+ There are        7 alpha and        7 beta electrons
+
+                       Distance Matrix (Angstroms)
+             N (  1)
+   N (  2)  1.094459
+ 
+ Applying Cartesian multipole field
+    Component          Value
+    ---------          -----
+     (2,0,0)        1.00000E-10
+     (0,2,0)        2.00000E-10
+     (0,0,2)       -3.00000E-10
+ Nucleus-field energy     =-4.4914443019e-09 hartrees
+ Requested basis set is 6-31G
+ There are 6 shells and 18 basis functions
+ A cutoff of  1.0D-12 yielded     21 shell pairs
+ There are       195 function pairs
+ Smallest overlap matrix eigenvalue = 7.45E-03
+ Guess MOs from SCF MO coefficient file
+
+ -----------------------------------------------------------------------
+  General SCF calculation program by
+  Eric Jon Sundstrom, Paul Horn, Yuezhi Mao, Dmitri Zuev, Alec White,
+  David Stuck, Shaama M.S., Shane Yost, Joonho Lee, David Small,
+  Daniel Levine, Susi Lehtola, Hugh Burton, Evgeny Epifanovsky,
+  Bang C. Huynh
+ -----------------------------------------------------------------------
+ Hartree-Fock
+ A restricted SCF calculation will be
+ performed using DIIS
+ SCF converges when DIIS error is below 1.0e-08
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+    1    -108.8618497652      1.10e-02  
+    2    -108.8675841631      2.55e-03  
+    3    -108.8678879338      5.95e-04  
+    4    -108.8679107246      3.96e-05  
+    5    -108.8679108359      4.93e-06  
+    6    -108.8679108376      4.91e-07  
+    7    -108.8679108377      2.41e-08  
+    8    -108.8679108377      2.66e-09  Convergence criterion met
+ ---------------------------------------
+ SCF time:   CPU 0.06s  wall 0.00s 
+ SCF   energy in the final basis set =     -108.8679108377
+ Total energy in the final basis set =     -108.8679108377
+ 
+ --------------------------------------------------------------
+ 
+                    Orbital Energies (a.u.)
+ --------------------------------------------------------------
+ 
+ Alpha MOs
+ -- Occupied --
+-15.7171 -15.7136  -1.5296  -0.7739  -0.6299  -0.6236  -0.6236
+ -- Virtual --
+  0.1527   0.1527   0.5907   0.7847   0.8469   0.8469   0.9448   1.0111
+  1.0111   1.1591   1.5767
+ --------------------------------------------------------------
+ 
+          Ground-State Mulliken Net Atomic Charges
+
+     Atom                 Charge (a.u.)
+  ----------------------------------------
+      1 N                     0.000000
+      2 N                    -0.000000
+  ----------------------------------------
+  Sum of atomic charges =     0.000000
+
+ -----------------------------------------------------------------
+                    Cartesian Multipole Moments
+ -----------------------------------------------------------------
+    Charge (ESU x 10^10)
+                 0.0000
+    Dipole Moment (Debye)
+         X       0.0000      Y       0.0000      Z      -0.0000
+       Tot       0.0000
+    Quadrupole Moments (Debye-Ang)
+        XX     -10.2860     XY       0.0000     YY     -10.2860
+        XZ       0.0000     YZ       0.0000     ZZ     -12.5555
+    Octopole Moments (Debye-Ang^2)
+       XXX       0.0000    XXY       0.0000    XYY       0.0000
+       YYY       0.0000    XXZ      -0.0000    XYZ       0.0000
+       YYZ      -0.0000    XZZ       0.0000    YZZ       0.0000
+       ZZZ      -0.0000
+    Hexadecapole Moments (Debye-Ang^3)
+      XXXX      -8.4495   XXXY       0.0000   XXYY      -2.8165
+      XYYY       0.0000   YYYY      -8.4495   XXXZ       0.0000
+      XXYZ       0.0000   XYYZ       0.0000   YYYZ       0.0000
+      XXZZ      -6.2258   XYZZ       0.0000   YYZZ      -6.2258
+      XZZZ       0.0000   YZZZ       0.0000   ZZZZ     -30.9551
+ -----------------------------------------------------------------
+ Calculating analytic gradient of the SCF energy
+ Gradient of SCF Energy
+            1           2
+    1  -0.0000000   0.0000000
+    2  -0.0000000   0.0000000
+    3  -0.0185766   0.0185766
+ Max gradient component =       1.858E-02
+ RMS gradient           =       1.073E-02
+ Gradient time:  CPU 0.01 s  wall 0.01 s
+
+     Step 2	:
+        Energy is -108.8679108377
+                            Maximum         Tolerance       Converged?
+         Gradient           1.85765711e-02	3.00000000e-04	false
+         Displacement       1.41830203e-01	1.20000000e-03	false
+         Energy change      1.90549178e-02	1.00000000e-06	false
+
+
+	OPTIMIZATION CYCLE:	3
+
+ Scaling Magnitude of Eigenvalues
+ 	Minimum: -25.00000000	 Maximum: 25.00000000
+ 1 Hessian Eigenvalues to form next step
+   2.34930448
+
+
+ Minimum Search taking a RFO step
+ Searching for Lambda that minimizes along all modes
+	Value of Lambda  -0.00014688
+	Norm of Stepsize  0.00790677
+	RMS of Stepsize  0.00790677
+
+	Performing Iterative Coordinate Back-Transformation
+
+	  Starting from Previous Position
+
+	  iter:	0	rms: 2.2824878454e-03	maxdev: 3.9533849159e-03
+	  iter:	1	rms: 0.0000000000e+00	maxdev: 0.0000000000e+00	 Success!
+
+	Finished Iterative Coordinate Back-Transformation
+ ----------------------------------------------------------------
+             Standard Nuclear Orientation (Angstroms)
+    I     Atom           X                Y                Z
+ ----------------------------------------------------------------
+    1      N      -0.0000000000     0.0000000000    -0.5451374533
+    2      N      -0.0000000000    -0.0000000000     0.5451374533
+ ----------------------------------------------------------------
+ Molecular Point Group                 D*h   NOp =***
+ Largest Abelian Subgroup              D2h   NOp =  1
+ Nuclear Repulsion Energy =          23.78270212 hartrees
+ There are        7 alpha and        7 beta electrons
+
+                       Distance Matrix (Angstroms)
+             N (  1)
+   N (  2)  1.090275
+ 
+ Applying Cartesian multipole field
+    Component          Value
+    ---------          -----
+     (2,0,0)        1.00000E-10
+     (0,2,0)        2.00000E-10
+     (0,0,2)       -3.00000E-10
+ Nucleus-field energy     =-4.4571686432e-09 hartrees
+ Requested basis set is 6-31G
+ There are 6 shells and 18 basis functions
+ A cutoff of  1.0D-12 yielded     21 shell pairs
+ There are       195 function pairs
+ Smallest overlap matrix eigenvalue = 7.30E-03
+ Guess MOs from SCF MO coefficient file
+
+ -----------------------------------------------------------------------
+  General SCF calculation program by
+  Eric Jon Sundstrom, Paul Horn, Yuezhi Mao, Dmitri Zuev, Alec White,
+  David Stuck, Shaama M.S., Shane Yost, Joonho Lee, David Small,
+  Daniel Levine, Susi Lehtola, Hugh Burton, Evgeny Epifanovsky,
+  Bang C. Huynh
+ -----------------------------------------------------------------------
+ Hartree-Fock
+ A restricted SCF calculation will be
+ performed using DIIS
+ SCF converges when DIIS error is below 1.0e-08
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+    1    -108.8679830236      5.94e-04  
+    2    -108.8679996431      1.38e-04  
+    3    -108.8680005433      3.22e-05  
+    4    -108.8680006088      2.05e-06  
+    5    -108.8680006091      2.60e-07  
+    6    -108.8680006091      2.66e-08  
+    7    -108.8680006091      1.24e-09  Convergence criterion met
+ ---------------------------------------
+ SCF time:   CPU 0.06s  wall 1.00s 
+ SCF   energy in the final basis set =     -108.8680006091
+ Total energy in the final basis set =     -108.8680006091
+ 
+ --------------------------------------------------------------
+ 
+                    Orbital Energies (a.u.)
+ --------------------------------------------------------------
+ 
+ Alpha MOs
+ -- Occupied --
+-15.7159 -15.7124  -1.5329  -0.7725  -0.6303  -0.6254  -0.6254
+ -- Virtual --
+  0.1550   0.1550   0.5925   0.7828   0.8458   0.8458   0.9452   1.0123
+  1.0123   1.1650   1.5840
+ --------------------------------------------------------------
+ 
+          Ground-State Mulliken Net Atomic Charges
+
+     Atom                 Charge (a.u.)
+  ----------------------------------------
+      1 N                    -0.000000
+      2 N                     0.000000
+  ----------------------------------------
+  Sum of atomic charges =     0.000000
+
+ -----------------------------------------------------------------
+                    Cartesian Multipole Moments
+ -----------------------------------------------------------------
+    Charge (ESU x 10^10)
+                -0.0000
+    Dipole Moment (Debye)
+         X       0.0000      Y       0.0000      Z       0.0000
+       Tot       0.0000
+    Quadrupole Moments (Debye-Ang)
+        XX     -10.2701     XY      -0.0000     YY     -10.2701
+        XZ      -0.0000     YZ       0.0000     ZZ     -12.5464
+    Octopole Moments (Debye-Ang^2)
+       XXX       0.0000    XXY       0.0000    XYY       0.0000
+       YYY       0.0000    XXZ       0.0000    XYZ       0.0000
+       YYZ       0.0000    XZZ       0.0000    YZZ       0.0000
+       ZZZ       0.0000
+    Hexadecapole Moments (Debye-Ang^3)
+      XXXX      -8.4243   XXXY      -0.0000   XXYY      -2.8081
+      XYYY      -0.0000   YYYY      -8.4243   XXXZ      -0.0000
+      XXYZ       0.0000   XYYZ      -0.0000   YYYZ       0.0000
+      XXZZ      -6.1942   XYZZ      -0.0000   YYZZ      -6.1942
+      XZZZ      -0.0000   YZZZ       0.0000   ZZZZ     -30.7791
+ -----------------------------------------------------------------
+ Calculating analytic gradient of the SCF energy
+ Gradient of SCF Energy
+            1           2
+    1   0.0000000  -0.0000000
+    2   0.0000000  -0.0000000
+    3  -0.0040615   0.0040615
+ Max gradient component =       4.061E-03
+ RMS gradient           =       2.345E-03
+ Gradient time:  CPU 0.01 s  wall 0.01 s
+
+     Step 3	:
+        Energy is -108.8680006091
+                            Maximum         Tolerance       Converged?
+         Gradient           4.06147654e-03	3.00000000e-04	false
+         Displacement       7.90676983e-03	1.20000000e-03	false
+         Energy change      8.97714057e-05	1.00000000e-06	false
+
+
+	OPTIMIZATION CYCLE:	4
+
+ Scaling Magnitude of Eigenvalues
+ 	Minimum: -25.00000000	 Maximum: 25.00000000
+ 1 Hessian Eigenvalues to form next step
+   1.83578059
+
+
+ Minimum Search taking a RFO step
+ Searching for Lambda that minimizes along all modes
+	Value of Lambda  -0.00000899
+	Norm of Stepsize  0.00221239
+	RMS of Stepsize  0.00221239
+
+	Performing Iterative Coordinate Back-Transformation
+
+	  Starting from Previous Position
+
+	  iter:	0	rms: 6.3866104396e-04	maxdev: 1.1061933770e-03
+	  iter:	1	rms: 0.0000000000e+00	maxdev: 0.0000000000e+00	 Success!
+
+	Finished Iterative Coordinate Back-Transformation
+ ----------------------------------------------------------------
+             Standard Nuclear Orientation (Angstroms)
+    I     Atom           X                Y                Z
+ ----------------------------------------------------------------
+    1      N      -0.0000000000     0.0000000000    -0.5445520810
+    2      N      -0.0000000000    -0.0000000000     0.5445520810
+ ----------------------------------------------------------------
+ Molecular Point Group                 D*h   NOp =***
+ Largest Abelian Subgroup              D2h   NOp =  1
+ Nuclear Repulsion Energy =          23.80826760 hartrees
+ There are        7 alpha and        7 beta electrons
+
+                       Distance Matrix (Angstroms)
+             N (  1)
+   N (  2)  1.089104
+ 
+ Applying Cartesian multipole field
+    Component          Value
+    ---------          -----
+     (2,0,0)        1.00000E-10
+     (0,2,0)        2.00000E-10
+     (0,0,2)       -3.00000E-10
+ Nucleus-field energy     =-4.4476015063e-09 hartrees
+ Requested basis set is 6-31G
+ There are 6 shells and 18 basis functions
+ A cutoff of  1.0D-12 yielded     21 shell pairs
+ There are       195 function pairs
+ Smallest overlap matrix eigenvalue = 7.26E-03
+ Guess MOs from SCF MO coefficient file
+
+ -----------------------------------------------------------------------
+  General SCF calculation program by
+  Eric Jon Sundstrom, Paul Horn, Yuezhi Mao, Dmitri Zuev, Alec White,
+  David Stuck, Shaama M.S., Shane Yost, Joonho Lee, David Small,
+  Daniel Levine, Susi Lehtola, Hugh Burton, Evgeny Epifanovsky,
+  Bang C. Huynh
+ -----------------------------------------------------------------------
+ Hartree-Fock
+ A restricted SCF calculation will be
+ performed using DIIS
+ SCF converges when DIIS error is below 1.0e-08
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+    1    -108.8680036416      1.66e-04  
+    2    -108.8680049491      3.87e-05  
+    3    -108.8680050198      9.02e-06  
+    4    -108.8680050249      5.78e-07  
+    5    -108.8680050250      7.36e-08  
+    6    -108.8680050250      7.47e-09  Convergence criterion met
+ ---------------------------------------
+ SCF time:   CPU 0.06s  wall 0.00s 
+ SCF   energy in the final basis set =     -108.8680050250
+ Total energy in the final basis set =     -108.8680050250
+ 
+ --------------------------------------------------------------
+ 
+                    Orbital Energies (a.u.)
+ --------------------------------------------------------------
+ 
+ Alpha MOs
+ -- Occupied --
+-15.7156 -15.7120  -1.5338  -0.7721  -0.6304  -0.6259  -0.6259
+ -- Virtual --
+  0.1556   0.1556   0.5930   0.7823   0.8456   0.8456   0.9453   1.0126
+  1.0126   1.1667   1.5861
+ --------------------------------------------------------------
+ 
+          Ground-State Mulliken Net Atomic Charges
+
+     Atom                 Charge (a.u.)
+  ----------------------------------------
+      1 N                    -0.000000
+      2 N                     0.000000
+  ----------------------------------------
+  Sum of atomic charges =     0.000000
+
+ -----------------------------------------------------------------
+                    Cartesian Multipole Moments
+ -----------------------------------------------------------------
+    Charge (ESU x 10^10)
+                 0.0000
+    Dipole Moment (Debye)
+         X      -0.0000      Y      -0.0000      Z       0.0000
+       Tot       0.0000
+    Quadrupole Moments (Debye-Ang)
+        XX     -10.2657     XY       0.0000     YY     -10.2657
+        XZ       0.0000     YZ       0.0000     ZZ     -12.5438
+    Octopole Moments (Debye-Ang^2)
+       XXX       0.0000    XXY      -0.0000    XYY       0.0000
+       YYY      -0.0000    XXZ       0.0000    XYZ       0.0000
+       YYZ       0.0000    XZZ      -0.0000    YZZ      -0.0000
+       ZZZ       0.0000
+    Hexadecapole Moments (Debye-Ang^3)
+      XXXX      -8.4172   XXXY      -0.0000   XXYY      -2.8057
+      XYYY      -0.0000   YYYY      -8.4172   XXXZ       0.0000
+      XXYZ       0.0000   XYYZ       0.0000   YYYZ       0.0000
+      XXZZ      -6.1853   XYZZ      -0.0000   YYZZ      -6.1853
+      XZZZ       0.0000   YZZZ       0.0000   ZZZZ     -30.7300
+ -----------------------------------------------------------------
+ Calculating analytic gradient of the SCF energy
+ Gradient of SCF Energy
+            1           2
+    1  -0.0000000   0.0000000
+    2  -0.0000000   0.0000000
+    3   0.0000750  -0.0000750
+ Max gradient component =       7.503E-05
+ RMS gradient           =       4.332E-05
+ Gradient time:  CPU 0.01 s  wall 0.01 s
+
+     Step 4	:
+        Energy is -108.8680050250
+                            Maximum         Tolerance       Converged?
+         Gradient           7.50259515e-05	3.00000000e-04	true
+         Displacement       2.21238675e-03	1.20000000e-03	false
+         Energy change      4.41588999e-06	1.00000000e-06	false
+
+
+	OPTIMIZATION CYCLE:	5
+
+ Scaling Magnitude of Eigenvalues
+ 	Minimum: -25.00000000	 Maximum: 25.00000000
+ 1 Hessian Eigenvalues to form next step
+   1.86970135
+
+
+ Minimum Search taking a RFO step
+ Searching for Lambda that minimizes along all modes
+	Value of Lambda  -0.00000000
+	Norm of Stepsize  0.00004013
+	RMS of Stepsize  0.00004013
+
+	Performing Iterative Coordinate Back-Transformation
+
+	  Starting from Previous Position
+
+	  iter:	0	rms: 1.1583735913e-05	maxdev: 2.0063619143e-05
+	  iter:	1	rms: 0.0000000000e+00	maxdev: 0.0000000000e+00	 Success!
+
+	Finished Iterative Coordinate Back-Transformation
+ ----------------------------------------------------------------
+             Standard Nuclear Orientation (Angstroms)
+    I     Atom           X                Y                Z
+ ----------------------------------------------------------------
+    1      N      -0.0000000000     0.0000000000    -0.5445626982
+    2      N      -0.0000000000    -0.0000000000     0.5445626982
+ ----------------------------------------------------------------
+ Molecular Point Group                 D*h   NOp =***
+ Largest Abelian Subgroup              D2h   NOp =  1
+ Nuclear Repulsion Energy =          23.80780341 hartrees
+ There are        7 alpha and        7 beta electrons
+
+                       Distance Matrix (Angstroms)
+             N (  1)
+   N (  2)  1.089125
+ 
+ Applying Cartesian multipole field
+    Component          Value
+    ---------          -----
+     (2,0,0)        1.00000E-10
+     (0,2,0)        2.00000E-10
+     (0,0,2)       -3.00000E-10
+ Nucleus-field energy     =-4.4477749390e-09 hartrees
+ Requested basis set is 6-31G
+ There are 6 shells and 18 basis functions
+ A cutoff of  1.0D-12 yielded     21 shell pairs
+ There are       195 function pairs
+ Smallest overlap matrix eigenvalue = 7.26E-03
+ Guess MOs from SCF MO coefficient file
+
+ -----------------------------------------------------------------------
+  General SCF calculation program by
+  Eric Jon Sundstrom, Paul Horn, Yuezhi Mao, Dmitri Zuev, Alec White,
+  David Stuck, Shaama M.S., Shane Yost, Joonho Lee, David Small,
+  Daniel Levine, Susi Lehtola, Hugh Burton, Evgeny Epifanovsky,
+  Bang C. Huynh
+ -----------------------------------------------------------------------
+ Hartree-Fock
+ A restricted SCF calculation will be
+ performed using DIIS
+ SCF converges when DIIS error is below 1.0e-08
+ ---------------------------------------
+  Cycle       Energy         DIIS error
+ ---------------------------------------
+    1    -108.8680050260      3.02e-06  
+    2    -108.8680050264      7.03e-07  
+    3    -108.8680050265      1.64e-07  
+    4    -108.8680050265      1.05e-08  
+    5    -108.8680050265      1.34e-09  Convergence criterion met
+ ---------------------------------------
+ SCF time:   CPU 0.05s  wall 0.00s 
+ SCF   energy in the final basis set =     -108.8680050265
+ Total energy in the final basis set =     -108.8680050265
+ 
+ --------------------------------------------------------------
+ 
+                    Orbital Energies (a.u.)
+ --------------------------------------------------------------
+ 
+ Alpha MOs
+ -- Occupied --
+-15.7156 -15.7120  -1.5338  -0.7721  -0.6304  -0.6259  -0.6259
+ -- Virtual --
+  0.1556   0.1556   0.5929   0.7823   0.8456   0.8456   0.9453   1.0126
+  1.0126   1.1667   1.5860
+ --------------------------------------------------------------
+ 
+          Ground-State Mulliken Net Atomic Charges
+
+     Atom                 Charge (a.u.)
+  ----------------------------------------
+      1 N                     0.000000
+      2 N                    -0.000000
+  ----------------------------------------
+  Sum of atomic charges =     0.000000
+
+ -----------------------------------------------------------------
+                    Cartesian Multipole Moments
+ -----------------------------------------------------------------
+    Charge (ESU x 10^10)
+                 0.0000
+    Dipole Moment (Debye)
+         X      -0.0000      Y       0.0000      Z      -0.0000
+       Tot       0.0000
+    Quadrupole Moments (Debye-Ang)
+        XX     -10.2657     XY       0.0000     YY     -10.2657
+        XZ      -0.0000     YZ      -0.0000     ZZ     -12.5438
+    Octopole Moments (Debye-Ang^2)
+       XXX       0.0000    XXY       0.0000    XYY       0.0000
+       YYY       0.0000    XXZ      -0.0000    XYZ       0.0000
+       YYZ      -0.0000    XZZ      -0.0000    YZZ       0.0000
+       ZZZ      -0.0000
+    Hexadecapole Moments (Debye-Ang^3)
+      XXXX      -8.4174   XXXY       0.0000   XXYY      -2.8058
+      XYYY       0.0000   YYYY      -8.4174   XXXZ      -0.0000
+      XXYZ      -0.0000   XYYZ      -0.0000   YYYZ      -0.0000
+      XXZZ      -6.1855   XYZZ       0.0000   YYZZ      -6.1855
+      XZZZ      -0.0000   YZZZ       0.0000   ZZZZ     -30.7308
+ -----------------------------------------------------------------
+ Calculating analytic gradient of the SCF energy
+ Gradient of SCF Energy
+            1           2
+    1   0.0000000  -0.0000000
+    2   0.0000000  -0.0000000
+    3  -0.0000003   0.0000003
+ Max gradient component =       2.951E-07
+ RMS gradient           =       1.704E-07
+ Gradient time:  CPU 0.01 s  wall 0.01 s
+
+     Step 5	:
+        Energy is -108.8680050265
+                            Maximum         Tolerance       Converged?
+         Gradient           2.95095869e-07	3.00000000e-04	true
+         Displacement       4.01272383e-05	1.20000000e-03	true
+         Energy change      1.49924517e-09	1.00000000e-06	true
+
+	 Optimization Converged in 5 cycles
+
+ *****************************************************
+             End of BFGS Algorithm
+ *****************************************************
+		----------------------------------
+		   Verification of Optimization
+		----------------------------------
+
+ Eigenvalues of Hessian in Optimization Verification
+   1.87705535
+
+
+ Found a minimum
+		---------------------------------
+		       End of Verification
+		---------------------------------
+
+ Final energy is -108.868005026453
+
+	******************************
+	**  OPTIMIZATION CONVERGED  **
+	******************************
+ ----------------------------------------------------------------
+             Standard Nuclear Orientation (Angstroms)
+    I     Atom           X                Y                Z
+ ----------------------------------------------------------------
+    1      N      -0.0000000000     0.0000000000    -0.5445626982
+    2      N      -0.0000000000    -0.0000000000     0.5445626982
+ ----------------------------------------------------------------
+ Molecular Point Group                 D*h   NOp =***
+ Largest Abelian Subgroup              D2h   NOp =  1
+ Nuclear Repulsion Energy =          23.80780341 hartrees
+ There are        7 alpha and        7 beta electrons
+
+Z-matrix Print:
+$molecule
+0 1
+N 
+N  1 1.089125
+$end
+
+ -----------------------------------------------------------------------
+                  END OF GEOMETRY OPTIMIZER USING LIBOPT3               
+ -----------------------------------------------------------------------
+ Total job time:  0.67s(wall), 0.67s(cpu) 
+ Thu Oct 20 14:25:42 2022
+
+        *************************************************************
+        *                                                           *
+        *  Thank you very much for using Q-Chem.  Have a nice day.  *
+        *                                                           *
+        *************************************************************
+
+

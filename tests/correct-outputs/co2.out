@@ -1,0 +1,40 @@
+ Entering Gaussian System, Link 0 = g09
+
+
+
+ Center     Atomic      Atomic             Coordinates (Angstroms)
+
+
+       1         6         0     0.000000     0.000000     0.000000
+       2         8         0    -0.000001     -0.000000     1.197000
+       3         8         0    -0.000001     -0.000000    -1.197000
+ SCF Done: =  -187.509854883
+
+
+ incident light, reduced masses
+
+                      1                      2                      3
+                      A                      A                      A
+ Frequencies --   736.8100               736.8100              1234.1700
+ Red. masses --   12.8774                 12.8774               15.9949
+ Frc consts  --   4.1190                 4.1190                14.3544
+ IR Inten    --   0.0000                 0.0000                0.0000
+  Atom  AN      X      Y      Z        X      Y      Z        X      Y      Z
+     1         -0.00    0.88    -0.00    0.88    0.00    -0.00    0.00    0.00    -0.00
+     2         0.00   -0.33    0.00   -0.33    -0.00    -0.00    -0.00    -0.00    0.71
+     3         0.00   -0.33    -0.00   -0.33    -0.00    0.00    -0.00    -0.00   -0.71
+                      1
+                      A
+ Frequencies --   736.8100
+ Red. masses --   12.8774
+ Frc consts  --   4.1190
+ IR Inten    --   0.0000
+  Atom  AN      X      Y      Z        X      Y      Z        X      Y      Z
+     1         -0.00    0.88    -0.00
+     2         0.00   -0.33    0.00
+     3         0.00   -0.33    -0.00
+
+ Temperature   298.150000 Kelvin.  Pressure   1.000000 Atm.
+ Atom      1.000000 has atomic number  6 and mass  12.000000
+ Atom      2.000000 has atomic number  8 and mass  15.994910
+ Atom      3.000000 has atomic number  8 and mass  15.994910
